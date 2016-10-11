@@ -1,0 +1,16 @@
+body {
+	background-color: #31314e;
+}
+h1 {
+	color: white;
+	font-family: "Courier New";
+}
+ul {
+	color : white;
+	list-style: none;
+	font-family: "Courier New";
+}
+p {
+	color: white;
+	font-family: "Courier New";
+}
